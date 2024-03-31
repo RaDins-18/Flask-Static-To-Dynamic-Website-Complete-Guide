@@ -1,0 +1,29 @@
+What is Flask:
+
+• Python’s Flask micro web framework can be used to build web-based apps for interacting and displaying data-driven content. Although Flask is more frequently associated with web development, it can also be used in data science to create straightforward web interfaces, APIs (Application Programming Interfaces), and visualisation tools that enable data scientists and analysts to present their data and analyses in a user-friendly and interactive way.
+
+
+How Flask Website Works:
+
+• Flask is used in server side. When a user requests a web page that contains python code, the code is processed by the python module installed on that web server. The python pre-processor then generates HTML output to be displayed on the user's browser screen.
+
+
+Common Uses of Flask:
+
+• Web Applications
+• API Development
+• Prototyping
+• Microservices
+• Webhooks
+• Interactive Dashboards
+• Educational Projects
+• Small to Medium-sized Websites
+• Integration with Data Science and Machine Learning
+
+
+Key features of Flask:
+
+• Lightweight and minimalistic
+• Jinja2 templating engine
+• WSGI compliant
+• Extensible and modular
